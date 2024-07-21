@@ -6,7 +6,7 @@
 module.exports = {
 
   development: {
-    client: 'mysql2',
+    client: 'mysql',
     connection: {
       host: '54.242.66.81',
       user: 'api_david',
