@@ -8,10 +8,10 @@ module.exports = {
   development: {
     client: 'mysql2',
     connection: {
-      host: '127.0.0.1',
-      user: 'root',
-      password:'',
-      database:'prueba'
+      host: '54.242.66.81',
+      user: 'api_david',
+      password:'D@v1d1998*',
+      database:'AwsBdd'
     },
     migrations:{
       directory:'./migrations'
